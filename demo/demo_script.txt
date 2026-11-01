@@ -1,0 +1,9 @@
+VOXORA AI - 2 MINUTE DEMO
+
+1. Introduce Voxora AI as a customer-support assistant for ZentroMart.
+2. Ask: How can I track my order? Show the knowledge-base response.
+3. Ask about the returns policy and show retrieved policy information.
+4. Demonstrate order lookup. Explain that order details require customer verification.
+5. Demonstrate support ticket creation if available in the interface.
+6. Show the health endpoint and project structure.
+7. State limitations honestly: Gnani voice requires a valid API key; LLM-based conversational responses require configured credentials.

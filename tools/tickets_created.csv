@@ -1,0 +1,3 @@
+ticket_id,created_at,order_id,intent,reason,summary
+TKTa41103fedce0447b984f439d23897815,2026-11-01T19:09:28,,customer_requested_handover,customer_requested_handover,"Customer requested support handover. Issue reported: My order has not arrived yet. I have been waiting for several days, and I need help from a support agent to resolve this delivery issue."
+TKTa3b7dfba233640868265dcdb170caf63,2026-11-01T19:52:07,,,,Customer reports that the delivered order has not arrived at the registered address.

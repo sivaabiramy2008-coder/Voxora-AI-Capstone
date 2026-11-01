@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the return window for electronics?",
+    "retrieved": [
+      {
+        "source": "pol_returns_v4.md",
+        "title": "[RET-2] Return windows by category",
+        "section_id": "RET-2"
+      },
+      {
+        "source": "pol_returns_v4.md",
+        "title": "[RET-3] Change to electronics returns",
+        "section_id": "RET-3"
+      },
+      {
+        "source": "pol_cancellations.md",
+        "title": "[CAN-2] After the order ships",
+        "section_id": "CAN-2"
+      }
+    ]
+  },
+  {
+    "question": "What is the return window for clothing ordered during the festive sale?",
+    "retrieved": [
+      {
+        "source": "pol_returns_v4.md",
+        "title": "[RET-2] Return windows by category",
+        "section_id": "RET-2"
+      },
+      {
+        "source": "pol_cancellations.md",
+        "title": "[CAN-2] After the order ships",
+        "section_id": "CAN-2"
+      },
+      {
+        "source": "pol_returns_v4.md",
+        "title": "[RET-8] Festive sale returns",
+        "section_id": "RET-8"
+      }
+    ]
+  },
+  {
+    "question": "How do I track my order?",
+    "retrieved": [
+      {
+        "source": "help_track_order.md",
+        "title": "help_track_order.md",
+        "section_id": null
+      },
+      {
+        "source": "faq_general.md",
+        "title": "[FAQ-1] How long do refunds take?",
+        "section_id": "FAQ-1"
+      },
+      {
+        "source": "pol_delivery_shipping.md",
+        "title": "pol_delivery_shipping.md",
+        "section_id": null
+      }
+    ]
+  },
+  {
+    "question": "What should I do if my item is damaged?",
+    "retrieved": [
+      {
+        "source": "pol_damaged_wrong_missing.md",
+        "title": "pol_damaged_wrong_missing.md",
+        "section_id": null
+      },
+      {
+        "source": "faq_general.md",
+        "title": "[FAQ-3] Is delivery free?",
+        "section_id": "FAQ-3"
+      },
+      {
+        "source": "agent_escalation_handoff.md",
+        "title": "[ESC-2] What to do first",
+        "section_id": "ESC-2"
+      }
+    ]
+  },
+  {
+    "question": "How are refunds processed?",
+    "retrieved": [
+      {
+        "source": "faq_general.md",
+        "title": "[FAQ-1] How long do refunds take?",
+        "section_id": "FAQ-1"
+      },
+      {
+        "source": "pol_refunds.md",
+        "title": "pol_refunds.md",
+        "section_id": null
+      },
+      {
+        "source": "pol_marketplace_sellers.md",
+        "title": "[MKS-2] Returns and refunds",
+        "section_id": "MKS-2"
+      }
+    ]
+  }
+]

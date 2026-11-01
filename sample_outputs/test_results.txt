@@ -1,0 +1,30 @@
+﻿VOXORA AI - CAPSTONE TEST RESULTS
+Date: 01 November 2026
+
+1. Core module imports: PASS
+2. Flask application import: PASS
+3. Health API: PASS (HTTP 200)
+4. Chat API: PASS (HTTP 200)
+5. Order verification without proof: PASS
+6. Invalid verification rejection: PASS
+7. Support ticket creation: PASS
+8. Ticket CSV storage: PASS
+9. Dataset validation: PASS
+
+DATASET VALIDATION:
+9 CSV files
+21 Knowledge Base documents
+1,000 orders
+1,783 order items
+244 support logs
+52 practice questions
+23 practice conversations
+
+KNOWN LIMITATIONS:
+- Official Gnani STT/TTS integration is not configured.
+- LLM API key is not configured.
+- Some RAG retrieval queries need improvement.
+- Batch audio processing is not verified.
+- Browser voice uses browser speech services, not Gnani.
+
+Note: These results are from individual checks, not a complete automated test suite.
